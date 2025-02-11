@@ -37,7 +37,7 @@ O projeto utilizasse do controle de pwm para manipular o movimento do braço de 
 Mensagens são mostradas para indicar a posição atual do led. 
 O valores definidos para a configuração do PWM são: 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e2c5c290-4717-4f52-8143-30f35431bf90" alt="valores pwm" width="300"/>
+  <img src="https://github.com/user-attachments/assets/e2c5c290-4717-4f52-8143-30f35431bf90" alt="valores pwm" width="900"/>
 </div>
 
 #### Na Placa - Comportamento do Led
