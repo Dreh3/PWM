@@ -26,7 +26,7 @@ __As funcionalidade básicas especificadas para a atividade são:__
 6) Com o emprego da Ferramenta Educacional BitDogLab, faça um experimento com o código deste exercício utilizando o LED RGB – GPIO 12.
 
 
-__Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguinte link: [Aplicações de PWM]().__
+__Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguinte link: [Aplicações de PWM](https://youtu.be/VdFxGpvdxEY).__
 
 __O projeto no simulador Wokwi Web pode ser acessado no seguinte link: [PWM_](https://wokwi.com/projects/422560201223537665).__
 
