@@ -1,3 +1,10 @@
+//Código desenvolvido por Andressa Sousa Fonseca
+
+/*
+O presente código permite manipular o braço de um servomotor para variar entre 0° e 180 periodicamente.
+Assim como oscilar a intensidade de um led RGB de maneira suave.
+*/
+
 #include <stdio.h> //Biblioteca padrão de C que permite entrada e saída de dados
 #include "pico/stdlib.h" //Biblioteca fundamental do SDK
 #include "hardware/pwm.h" //Biblioteca para manipular o pwm
