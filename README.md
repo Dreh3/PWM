@@ -7,7 +7,7 @@ __Responsável pelo desenvolvimento:__
 Andressa Sousa Fonseca
 
 ## Descrição Da Tarefa 
-__Aplicação controle de PWM para manipular servomotor e led RGB__  <br>
+__Aplicação de PWM para manipular servomotor e led RGB__  <br>
 
 __Os Componentes necessários para a execução da atividade são:__
 
