@@ -26,27 +26,26 @@ __As funcionalidade básicas especificadas para a atividade são:__
 6) Com o emprego da Ferramenta Educacional BitDogLab, faça um experimento com o código deste exercício utilizando o LED RGB – GPIO 12.
 
 
-__Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguine link: [Aplicações de PWM]().__
+__Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguinte link: [Aplicações de PWM]().__
+
+__O projeto no simulador Wokwi Web pode ser acessado no seguinte link: [PWM_](https://wokwi.com/projects/422560201223537665).__
 
 ## Detalhamento Do Projeto
 
 ### 1. Explicação do funcionamento
 
-#### No Simulador Wokwi - Compportamento do Braço do Servomotor
-O projeto utilizasse do controle de pwm para manipular o movimento do braço de um servomotor de 0 graus para 180 graus. Inicialmente, o braço permanece cinco segundos em cada uma das posições iniciais. E após isso movisse de 0 a 180 e de 180 a 0 graus constantemente. 
-Mensagens são mostradas para indicar a posição atual do led. 
+#### Simulador Wokwi - Comportamento do Braço do Servomotor
+
+O projeto utilizasse do controle de pwm para manipular o movimento do braço de um servomotor em 0°, 90° e 180°. Inicialmente, o braço permanece cinco segundos em cada uma das posições iniciais. E após isso, movesse entre 0 e 180 periodicamente com um clico ativo de aproximadamente 5us. Ademais, mensagens são mostradas para indicar a posição atual do braço. 
 O valores definidos para a configuração do PWM são: 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e2c5c290-4717-4f52-8143-30f35431bf90" alt="valores pwm" width="900"/>
 </div>
 
-#### Na Placa - Comportamento do Led
+#### Comportamento do Led
 
-Os valores e configurações de PWM são as mesmas do simulador, a difernaça é que a placa não possui o braço do servomotor. Logo, é possível observar apenas o funcionamento do led. 
-Com uso do PWM, é possível perceber que o led aumenta e dimunui o brilho constantemente. 
-
+Os valores e configurações de PWM são as mesmos mencionados acima. Com uso do PWM, é possível perceber que o led aumenta e dimunui o brilho constantemente de maneira suave. 
 
 ### 2. Observações
 
 O simulador Integrado Wokwi permite visualizar o giro do braço do servomotor e o led. Na placa, é possível observar apenas o comportamento do led.
-Observação: 
